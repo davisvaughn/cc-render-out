@@ -1,0 +1,9 @@
+DONE 100 cow-gummy-mold-0-75-inch-48-cavity 20s  (1 ok, 0 failed, 20s elapsed)
+DONE 101 pig-gummy-mold-0-75-inch-49-cavity 14s  (2 ok, 0 failed, 33s elapsed)
+DONE 102 turtle-gummy-mold-0-75-inch-48-cavity 10s  (3 ok, 0 failed, 44s elapsed)
+DONE 103 ladybug-gummy-mold-0-75-inch-48-cavity 11s  (4 ok, 0 failed, 55s elapsed)
+DONE 104 butterfly-gummy-mold-0-75-inch-42-cavity 13s  (5 ok, 0 failed, 67s elapsed)
+DONE 105 bee-gummy-mold-0-75-inch-42-cavity 12s  (6 ok, 0 failed, 80s elapsed)
+DONE 106 owl-candy-mold-1-inch-30-cavity 13s  (7 ok, 0 failed, 92s elapsed)
+DONE 107 bird-candy-mold-1-inch-25-cavity 15s  (8 ok, 0 failed, 108s elapsed)
+FINISHED start=100 count=8 ok=8 failed=0 seconds=108
