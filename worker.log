@@ -70,3 +70,6 @@ DONE 142 number-5-mold-1-5-inch 16s  (69 ok, 0 failed, 1765s elapsed)
 DONE 143 number-6-mold-1-5-inch 15s  (70 ok, 0 failed, 1780s elapsed)
 DONE 144 number-7-mold-1-5-inch 16s  (71 ok, 0 failed, 1796s elapsed)
 DONE 145 number-8-mold-1-5-inch 16s  (72 ok, 0 failed, 1811s elapsed)
+DONE 146 number-9-mold-1-5-inch 16s  (73 ok, 0 failed, 1827s elapsed)
+DONE 147 ampersand-mold-1-5-inch 17s  (74 ok, 0 failed, 1844s elapsed)
+FINISHED start=74 count=74 ok=74 failed=0 seconds=1844
