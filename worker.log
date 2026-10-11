@@ -46,3 +46,10 @@ DONE 4244 airplane-ice-mold-2-inch-4-cavity 44s  (45 ok, 0 failed, 1586s elapsed
 DONE 4245 puzzle-ice-mold-2-inch-4-cavity 45s  (46 ok, 0 failed, 1631s elapsed)
 DONE 4246 chess-knight-ice-mold-2-inch-4-cavity 42s  (47 ok, 0 failed, 1673s elapsed)
 DONE 4247 chess-pawn-ice-mold-2-inch-4-cavity 42s  (48 ok, 0 failed, 1715s elapsed)
+DONE 4248 music-note-ice-mold-2-inch-6-cavity 24s  (49 ok, 0 failed, 1738s elapsed)
+DONE 4249 trophy-ice-mold-2-inch-4-cavity 45s  (50 ok, 0 failed, 1783s elapsed)
+DONE 4250 church-ice-mold-2-inch-4-cavity 45s  (51 ok, 0 failed, 1828s elapsed)
+DONE 4251 pizza-slice-ice-mold-2-inch-4-cavity 44s  (52 ok, 0 failed, 1872s elapsed)
+DONE 4252 birthday-cake-ice-mold-2-inch-4-cavity 43s  (53 ok, 0 failed, 1915s elapsed)
+DONE 4253 water-drop-ice-mold-2-inch-4-cavity 41s  (54 ok, 0 failed, 1957s elapsed)
+FINISHED start=4200 count=54 ok=54 failed=0 seconds=1957
